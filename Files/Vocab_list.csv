@@ -1,7 +1,583 @@
 ,Word,Vocabulary,Definition
-0,Arma,"arma, -orum (n. pl.)","implements, outfit, instruments, tools; 
-implements of war, arms, weapons"
-4,qui,"qui, quae, quod","who, which, that"
-5,primus,"primus, -a, -um","the first, first"
-8,sumus,"sum, esse, fui",to be
-10,maximux,"magnus, -a, -um","great, large"
+0,Ais,eo,"there, in that place; to there; therefore, for that 
+reason"
+1,Ais,"eo, ire, ivi or ii, itum","to go, walk, ride, sail, fly, move, pass"
+2,te,"tu, tui, tibi, te, te",you (singular)
+4,litteris,"littera, -ae (f.)","a letter (alphabet); (pl.) letter, epistle; literature, 
+books, records, account"
+5,quas,"qui, quae, quod","who, which, that"
+6,exigenti,"exigo, -ere, -egi, -actum","to drive out, push forth, thrust out, take out, 
+expel"
+7,tibi,"tu, tui, tibi, te, te",you (singular)
+8,de,de,"(with abl.) from, away from, down from, out of, 
+about"
+9,morte,"mors, -tis (f.)",death
+10,avunculi,"avunculus, -i (m.)","a maternal uncle, mother’s brother"
+11,mei,"meus, -a, -um","of me, my, mine, belonging to me, my own"
+14,cupere,"cupio, -ere, -ivi, -itum","to long for, desire, wish"
+15,cognoscere,"cognosco, -ere, cognovi, 
+cognitum","to become acquainted with, acquire 
+knowledge of, learn, understand"
+17,quos,"qui, quae, quod","who, which, that"
+18,ego,"ego, mei, mihi, me, me","I, me"
+20,relictus,"relinquo, -ere, -liqui, -lictum","to leave behind, give up, leave, abandon"
+21,—,"ego, mei, mihi, me, me","I, me"
+22,id,"is, ea, id","he, she, it; this, that, the"
+23,enim,enim,"for, for instance, namely, that is to say, I mean, 
+in fact"
+26,—,"ego, mei, mihi, me, me","I, me"
+27,non,non,"not, by no means, not at all"
+29,metus,"metus, -us (m.)","fear, dread, apprehension, anxiety"
+30,verum,"verus, -a, -um","true, real, actual, genuine"
+31,etiam,etiam,"now too, yet, as yet, even yet, still, even now"
+32,casus,"casus, -us (m.)","a falling, falling down, fall; a misfortune, 
+mishap, calamity"
+36,animus,"animus, -i (m.)","the soul, intelligence, reason, intellect, mind"
+37,meminisse,"memini, -isse","(a defective verb) to remember, recollect, 
+think of, is mindful of"
+43,incipiam.,"incipio, -ere, -cepi, -ceptum","to take hold, take in hand, begin"
+48,ipse,"ipse, -a, -um","self, in person, himself, herself, itself, etc."
+49,reliquum,"reliquus, -a, -um","rest of, remaining, available, left, surviving; 
+future, further"
+50,tempus,"tempus, -oris (n.)","a portion of time, time, period, season, interval"
+51,studiis,"studium, -i (n.)","application, zeal, eagerness, inclination, 
+desire, exertion, study"
+52,—,"—, sui, sibi, se, se","himself, herself, itself, themselves"
+54,enim,enim,"for, for instance, namely, that is to say, I mean, 
+in fact"
+56,—,"—, sui, sibi, se, se","himself, herself, itself, themselves"
+59,mox,mox,"soon, directly, presently, then"
+62,somnus,"somnus, -i (m.)",sleep; (in plural) a dream
+64,et,et,"and; also, too, besides, likewise, as well, even"
+69,per,per,"(with acc.) through, across, along, among"
+70,multos,"multus, -a, -um","much, great, many"
+71,dies,"dies, -ei (m. or f.)",a day
+72,tremor,"tremor, -oris (m.)","a shaking, quaking, quivering, trembling, 
+tremor"
+73,terrae,"terra, -ae (f.)",the earth
+77,quia,quia,"because, since"
+81,illa,"ille, illa, illud",that
+82,vero,vero,"in truth, in fact, certainly, truly, to be sure, 
+surely, assuredly"
+83,nocte,"nox, noctis (f.)",night
+84,ita,ita,"in this manner, in this wise, in such a way, so, 
+thus, accordingly, as has been said"
+87,ut,ut or uti,"how, in what way; as, like; when; that, so that"
+88,non,non,"not, by no means, not at all"
+89,moveri,"moveo, -ere, movi, motum","to move, stir, set in motion, shake, disturb, 
+remove"
+90,omnia,"omnis, -e","all, every"
+91,sed,sed,"but, on the contrary, but also, but even, but in 
+fact"
+92,verti,vero,"in truth, in fact, certainly, truly, to be sure, 
+surely, assuredly"
+93,crederentur,"credo, -ere, -didi, -ditum","(with dat.) to believe, trust; to confide in, have 
+confidence in"
+97,cubiculum,"cubiculum, -i (n.)",a bedroom
+98,meum,"meus, -a, -um","of me, my, mine, belonging to me, my own"
+99,mater,"mater, -tris (f.)",a mother
+101,surgebam,"surgo, -ere, surrexi, surrectum","to rise, arise, get up, stand up"
+104,si,si,if
+105,quiesceret,"quiesco, -ere, -evi, -etum","to rest, repose, keep quiet, be inactive, be at 
+peace"
+106,excitaturus,"excito, -are, -avi, -atum","to call out, summon forth, bring out, wake, 
+rouse"
+109,in,in,"(with abl.) in, on; (with acc.) into, to, onto"
+111,domus,"domus, -us or -i (f.)","a house, home, dwelling-house, building, 
+mansion, palace"
+113,quae,"qui, quae, quod","who, which, that"
+114,mare,"mare, -is (n.)",the sea
+118,spatio,"spatium, -i (n.)","a space, room, extent, distance, interval"
+125,vocare,"voco, -are, -avi, -atum","to call, summon, invoke, call together, 
+convoke"
+126,an,an,"or, or whether"
+128,debeam,"debeo, -ere, -ui, -itum","to owe, be in debt; ought, must, should"
+129,—,"—, sui, sibi, se, se","himself, herself, itself, themselves"
+130,agebam,"ago, -ere, egi, actum","to put in motion, do, move, lead, drive"
+131,enim,enim,"for, for instance, namely, that is to say, I mean, 
+in fact"
+133,annum,"annus, -i (m.)",a year
+136,posco,"posco, -ere, poposci","to ask urgently, beg, demand, request, desire"
+137,librum,"liber, -bri (m.)","the bark of a tree; paper, book"
+138,librum,"liber, -era, -erum","free, unrestricted, unrestrained, unimpeded, 
+unshackled"
+142,et,et,"and; also, too, besides, likewise, as well, even"
+143,quasi,quasi,"as if, just as if, as though"
+144,per,per,"(with acc.) through, across, along, among"
+145,otium,"otium, -i (n.)","leisure; spare time; holiday; ease, rest, peace, 
+quiet, calm"
+146,lego,"lego, -ere, legi, lectum","to bring together, gather, choose; to read"
+147,atque,"atque, ac",and
+148,etiam,etiam,"now too, yet, as yet, even yet, still, even now"
+149,ut,ut or uti,"how, in what way; as, like; when; that, so that"
+153,Ecce,ecce,lo! see! behold! there! look!
+154,amicus,"amicus, -a, -um","loving, friendly, kind, favorable"
+155,amicus,"amicus, -i (m.)","a loved one, loving one, friend"
+156,avunculi,"avunculus, -i (m.)","a maternal uncle, mother’s brother"
+157,qui,"qui, quae, quod","who, which, that"
+159,ad,ad,"(with acc.) to, toward"
+160,eum,"is, ea, id","he, she, it; this, that, the"
+161,ex,"ex, e","(with abl.) out of, from"
+165,ut,ut or uti,"how, in what way; as, like; when; that, so that"
+166,me,"ego, mei, mihi, me, me","I, me"
+167,et,et,"and; also, too, besides, likewise, as well, even"
+168,matrem,"mater, -tris (f.)",a mother
+169,sedentes,"sedeo, -ere, sedi, sessum","to sit, remain, settle"
+171,me,"ego, mei, mihi, me, me","I, me"
+172,vero,vero,"in truth, in fact, certainly, truly, to be sure, 
+surely, assuredly"
+173,etiam,etiam,"now too, yet, as yet, even yet, still, even now"
+174,legentem,"lego, -ere, legi, lectum","to bring together, gather, choose; to read"
+175,videt,"video, -ere, vidi, visum","to see, discern, perceive; (in passive) to seem"
+177,illius,"ille, illa, illud",that
+180,meam,"meus, -a, -um","of me, my, mine, belonging to me, my own"
+181,corripit,"corripio, -ere, -ripui, -reptum","to seize, snatch up, grasp, collect, take hold 
+of, arrest"
+183,Nihilo,nihil or nil,nothing
+185,ego,"ego, mei, mihi, me, me","I, me"
+186,intentus,"intendo, -ere, -di, -tum","to stretch out, reach forth, extend"
+187,in,in,"(with abl.) in, on; (with acc.) into, to, onto"
+188,librum,"liber, -bri (m.)","the bark of a tree; paper, book"
+189,librum,"liber, -era, -erum","free, unrestricted, unrestrained, unimpeded, 
+unshackled"
+192,Iam,iam,"at the moment, at the present moment, now, 
+at this time, just now, at present"
+193,hora,"hora, -ae (f.)",an hour; time; season
+194,diei,"dies, -ei (m. or f.)",a day
+195,prima,"primus, -a, -um","the first, first"
+197,et,et,"and; also, too, besides, likewise, as well, even"
+198,adhuc,adhuc,"until now, heretofore, as yet, to this point, to 
+this place"
+199,dubius,"dubius, -a, -um","moving two ways, doubting, doubtful, 
+dubious, uncertain"
+200,et,et,"and; also, too, besides, likewise, as well, even"
+201,quasi,quasi,"as if, just as if, as though"
+203,dies,"dies, -ei (m. or f.)",a day
+205,Iam,iam,"at the moment, at the present moment, now, 
+at this time, just now, at present"
+210,quamquam,quamquam,"though, although, albeit, notwithstanding that"
+211,in,in,"(with abl.) in, on; (with acc.) into, to, onto"
+212,aperto,"aperio, -ire, aperui, apertum","to uncover, open, disclose; explain, recount; 
+reveal; establish"
+213,loco,"locus or locum, -i (m.)","a place, spot"
+215,angusto,"angustus, -a, -um","narrow, steep, close, confined; scanty, poor; 
+narrowminded, petty"
+216,tamen,tamen,"notwithstanding, nevertheless, for all that, 
+however, yet, still"
+218,magnus,"magnus, -a, -um","great, large"
+219,et,et,"and; also, too, besides, likewise, as well, even"
+220,certus,"certus, -a, -um","determined, resolved, fixed, settled, 
+purposed, certain"
+222,metus,"metus, -us (m.)","fear, dread, apprehension, anxiety"
+225,Tum,tum,"then, at that time, in those times"
+231,sequitur,"sequor, -i, secutus sum","to follow, come after, follow after, accompany"
+233,attonitum,"attonitus, -a, -um","astonished, fascinated; stupefied, dazed; 
+inspired"
+236,in,in,"(with abl.) in, on; (with acc.) into, to, onto"
+238,simile,"similis, -e","like, resembling, similar"
+239,prudentiae,"prudentia, -ae (f.)","discretion; good sense, wisdom; prudence; 
+foresight"
+241,alienum,"alienus, -a, -um","of another, belonging to another, not one’s 
+own, foreign, alien, strange"
+242,consilium,"consilium, -i (n.)","a council, body of counsellors; a plan, 
+purpose, intention"
+243,suo,"suus, -a, -um","of oneself, belonging to oneself, his own, her 
+own, his, her, its, their"
+248,abeuntes,"abeo, -ire, -ii, -itum","to go from, go away, go off, go forth, go, 
+depart"
+249,premit,"premo, -ere, -essi, -essum",to press
+250,et,et,"and; also, too, besides, likewise, as well, even"
+251,impellit.,"impello (inp-), -ere, -puli, 
+-pulsum","to strike against, push, drive, strike; set in 
+motion, drive forward, move, urge on"
+257,Multa,"multus, -a, -um","much, great, many"
+258,ibi,ibi,"in that place, there; on the spot, then, 
+thereupon"
+261,multas,"multus, -a, -um","much, great, many"
+263,patimur,"patior, -i, passus sum","to bear, support, undergo, suffer, endure"
+265,Nam,nam or namque,"for, you see"
+267,quae,"qui, quae, quod","who, which, that"
+271,quamquam,quamquam,"though, although, albeit, notwithstanding that"
+272,in,in,"(with abl.) in, on; (with acc.) into, to, onto"
+274,campo,"campus, -i (m.)","a plain, field, open country, level place"
+276,in,in,"(with abl.) in, on; (with acc.) into, to, onto"
+278,partes,"pars, partis (f.)","a part, piece, portion, share, division, section"
+279,agebantur,"ago, -ere, egi, actum","to put in motion, do, move, lead, drive"
+281,ac,"atque, ac",and
+282,ne,ne,"no, not, that not, lest, so that not"
+283,lapidibus,"lapis, -idis (m.)",a stone
+284,quidem,quidem,"assuredly, certainly, in fact, indeed"
+286,in,in,"(with abl.) in, on; (with acc.) into, to, onto"
+287,eodem,"idem, eadem, idem",the same
+288,vestigio,"vestigium, -i (n.)","a footstep, step, footprint; a trace, mark, track, 
+vestige"
+289,quiescebant,"quiesco, -ere, -evi, -etum","to rest, repose, keep quiet, be inactive, be at 
+peace"
+293,mare,"mare, -is (n.)",the sea
+294,in,in,"(with abl.) in, on; (with acc.) into, to, onto"
+297,et,et,"and; also, too, besides, likewise, as well, even"
+299,terrae,"terra, -ae (f.)",the earth
+300,quasi,quasi,"as if, just as if, as though"
+302,videbamus,"video, -ere, vidi, visum","to see, discern, perceive; (in passive) to seem"
+306,litus,"litus, -oris (n.)","the sea-shore, sea-side, beach"
+308,multaque,"multus, -a, -um","much, great, many"
+309,animalia,"animal, -is (m. or f.)","an animal, living thing"
+313,detinebat,"detineo, -ere, -ui, -tentum","to hold off, keep back, detain, check"
+316,altero,"alter, -tera, -terum","one, another, the one, the other (of two)"
+318,nubes,"nubes, -is (f.)","a cloud, mist, vapor"
+320,et,et,"and; also, too, besides, likewise, as well, even"
+324,spiritus,"spiritus, -us (m.)","a breathing, breath"
+330,in,in,"(with abl.) in, on; (with acc.) into, to, onto"
+331,longas,"longus, -a, -um","long, extended"
+332,flammarum,"flamma, -ae (f.)","a blazing fire, blaze, flame"
+333,figuras,"figura, -ae (f.)","a form, shape, figure"
+337,illae,"ille, illa, illud",that
+338,et,et,"and; also, too, besides, likewise, as well, even"
+339,similes,"similis, -e","like, resembling, similar"
+340,et,et,"and; also, too, besides, likewise, as well, even"
+341,maiores,"magnus, -a, -um","great, large"
+342,erant,"sum, esse, fui",to be
+345,Tum,tum,"then, at that time, in those times"
+346,vero,vero,"in truth, in fact, certainly, truly, to be sure, 
+surely, assuredly"
+347,idem,"idem, eadem, idem",the same
+348,ille,"ille, illa, illud",that
+349,ex,"ex, e","(with abl.) out of, from"
+351,amicus,"amicus, -a, -um","loving, friendly, kind, favorable"
+352,amicus,"amicus, -i (m.)","a loved one, loving one, friend"
+354,et,et,"and; also, too, besides, likewise, as well, even"
+357,frater,"frater, -tris (m.)",a brother
+359,inquit,"inquam (defective verb, inquis, 
+inquit, inquimus, inquiunt)",to say
+362,tuus,"tuus, -a, -um","your, yours, of you (singular)"
+363,avunculus,"avunculus, -i (m.)","a maternal uncle, mother’s brother"
+366,vult,"volo, -are, -avi, -atum",to fly
+367,vult,"volo, velle, volui","to will, wish, want, purpose, be minded, 
+determine"
+368,esse,"sum, esse, fui",to be
+372,si,si,if
+373,periit,"pereo, -ire, -ii (or -ivi), -itum","to pass away, come to nothing, vanish, 
+disappear, perish, die"
+379,quid,"quis, qua, quid","anyone, anything, someone, something (often 
+with si, ne, num or nisi)"
+380,quid,"quis, quid","who, what"
+383,',"ego, mei, mihi, me, me","I, me"
+384,Respondimus,"respondeo, -ere, -spondi, 
+-sponsum","to answer, reply, respond, make answer"
+385,non,non,"not, by no means, not at all"
+387,nos,"nos, nostrum/nostri, nobis, nos, 
+nobis","we, us"
+388,ut,ut or uti,"how, in what way; as, like; when; that, so that"
+389,de,de,"(with abl.) from, away from, down from, out of, 
+about"
+390,salute,"salus, -utis (f.)","soundness, health, good health, vigor, safety"
+391,illius,"ille, illa, illud",that
+393,nostrae,"noster, -stra, -strum","our, our own, ours, of us"
+394,consuleremus,"consulo, -ere, -ui, -tum","to meet and consider, reflect, consult, look 
+out, be mindful"
+397,Non,non,"not, by no means, not at all"
+398,moratus,"moror, -ari, -atus sum","to delay, stay, wait, remain, linger, loiter"
+402,effusoque,"effundo, -ere, -fudi, -fusum","to pour out, pour forth, shed, spread abroad"
+403,cursu,"cursus, -us (m.)","a running, course, way, march, passage, 
+voyage, journey"
+404,periculo,"periculum or periclum, -i (n.)","a trial, experiment, attempt, test; risk, hazard, 
+danger, peril"
+407,Nec,nec or neque,"and not, also not, nor"
+409,post,post,"(with acc.) (of space) behind, after; (of time) 
+behind, afterwards, after, later"
+410,illa,"ille, illa, illud",that
+411,nubes,"nubes, -is (f.)","a cloud, mist, vapor"
+412,descendere,"descendo, -ere, -i, descensum","to descend, go down; to dismount; to 
+penetrate, sink"
+413,in,in,"(with abl.) in, on; (with acc.) into, to, onto"
+414,terras,"terra, -ae (f.)",the earth
+416,operire,"operio, -ire, -ui, -ertum","to cover, cover over"
+421,et,et,"and; also, too, besides, likewise, as well, even"
+425,quod,quod,"that, in that, because, but, though"
+430,Tum,tum,"then, at that time, in those times"
+431,mater,"mater, -tris (f.)",a mother
+432,orare,"oro, -are, -avi, -atum","to speak, argue, plead, pray, beg, implore"
+434,iubere,"iubeo, -ere, iussi, iussum","to order, give an order, bid, tell, command"
+436,quoquo,"quisquis, quaeque, quodquod 
+or quidquid","whoever, whosoever, whatever, whatsoever, 
+everyone who, each, every, all"
+437,modo,"modus, -i (m.)","a measure, extent, quantity; a manner, way, 
+mode"
+438,fugerem,"fugio, -ere, fugi, fugitum","to flee, fly, take flight, run away, make off"
+440,posse,"possum, posse, potui","to be able, have power, can"
+441,enim,enim,"for, for instance, namely, that is to say, I mean, 
+in fact"
+445,et,et,"and; also, too, besides, likewise, as well, even"
+446,annis,"annus, -i (m.)",a year
+447,et,et,"and; also, too, besides, likewise, as well, even"
+448,corpore,"corpus, -oris (n.)",a body (living or lifeless)
+449,gravem,"gravis, -e","heavy, weighty, ponderous, burdensome, 
+loaded, laden, burdened"
+450,bene,bene,well
+451,morituram,"morior, -iri, mortuus sum","to die, expire"
+453,si,si,if
+454,mihi,"ego, mei, mihi, me, me","I, me"
+455,causa,"causa, -ae (f.)","a cause, reason, motive, occasion, 
+opportunity; (in the ablative) for the sake of"
+456,mortis,"mors, -tis (f.)",death
+457,non,non,"not, by no means, not at all"
+458,fuisset,"sum, esse, fui",to be
+460,Ego,"ego, mei, mihi, me, me","I, me"
+461,contra,contra,"in opposition, opposite, face to face; in turn, in 
+return, back, on the other hand, likewise (with 
+acc.)"
+463,me,"ego, mei, mihi, me, me","I, me"
+464,nisi,nisi,"if not, unless, except"
+465,una,"unus, -a, -um","one, a single; alone, only, sole, single; a or an"
+466,non,non,"not, by no means, not at all"
+467,futurum,"futurus, -a, -um","going to be, yet to be, to come, future"
+470,manum,"manus, -us (f.)",a hand; a band (of soldiers)
+471,eius,"is, ea, id","he, she, it; this, that, the"
+473,addere,"addo, -ere, -didi, -ditum","to put to, place upon, lay on, join, attach"
+474,gradum,"gradus, -us (m.)","a step, pace, gait, walk"
+475,cogo,"cogo, -ere, coegi, coactum","to drive together, bring together, convene, 
+compel, force"
+482,quod,quod,"that, in that, because, but, though"
+483,me,"ego, mei, mihi, me, me","I, me"
+484,moretur,"morior, -iri, mortuus sum","to die, expire"
+487,Iam,iam,"at the moment, at the present moment, now, 
+at this time, just now, at present"
+488,cinis,"cinis, -eris (m.)",ashes
+490,adhuc,adhuc,"until now, heretofore, as yet, to this point, to 
+this place"
+491,tamen,tamen,"notwithstanding, nevertheless, for all that, 
+however, yet, still"
+496,densa,"densus, -a, -um","thick, close, compact, dense, crowded"
+499,imminebat,"immineo (inm-), -ere","to project over, lean towards, hang down over, 
+overhang, overarch"
+501,quae,"qui, quae, quod","who, which, that"
+502,nos,"nos, nostrum/nostri, nobis, nos, 
+nobis","we, us"
+504,modo,"modus, -i (m.)","a measure, extent, quantity; a manner, way, 
+mode"
+506,terrae,"terra, -ae (f.)",the earth
+507,sequebatur,"sequor, -i, secutus sum","to follow, come after, follow after, accompany"
+511,inquam,"inquam (defective verb, inquis, 
+inquit, inquimus, inquiunt)",to say
+513,videmus,"video, -ere, vidi, visum","to see, discern, perceive; (in passive) to seem"
+515,ne,ne,"no, not, that not, lest, so that not"
+516,in,in,"(with abl.) in, on; (with acc.) into, to, onto"
+517,via,"via, -ae (f.)","a way, highway, road, path, street"
+520,turba,"turba, -ae (f.)","a turmoil, riot, disturbance; a crowd, multitude"
+521,in,in,"(with abl.) in, on; (with acc.) into, to, onto"
+529,et,et,"and; also, too, besides, likewise, as well, even"
+530,nox,"nox, noctis (f.)",night
+531,—,"—, sui, sibi, se, se","himself, herself, itself, themselves"
+532,non,non,"not, by no means, not at all"
+533,qualis,"qualis, -e","of what sort, of what nature, what kind of a; of 
+such a sort, kind, or nature, such as, as"
+535,aut,aut,"or (introducing an antithesis to what 
+precedes)"
+536,nubila,"nubila, -orum (n. pl.)","clouds, rain-clouds"
+538,sed,sed,"but, on the contrary, but also, but even, but in 
+fact"
+539,qualis,"qualis, -e","of what sort, of what nature, what kind of a; of 
+such a sort, kind, or nature, such as, as"
+540,in,in,"(with abl.) in, on; (with acc.) into, to, onto"
+541,locis,"locus or locum, -i (m.)","a place, spot"
+542,clausis,"claudo, -ere, -si, -sum","to shut, close, shut up"
+543,lumine,"lumen, -inis (n.)","light, light of day, light of life, light of the eye"
+544,exstincto,"exstinguo or extinguo, -ere, 
+-nxi, -nctum","to put out, quench, extinguish, destroy"
+546,Audires,"audio, -ire, -ivi (or -ii), -itum",to hear
+548,feminarum,"femina, -ae (f.)","a female, woman"
+553,clamores,"clamor, -is (m.)","a shout, cry; loud shouting; applause; a loud 
+noise, roar; a battle-cry"
+556,alii,"alius, -a, -ud","another, other, different"
+557,parentes,"parens, -entis (m. or f.)","a procreator, father, mother, parent"
+558,alii,"alius, -a, -ud","another, other, different"
+559,liberos,"liber, -bri (m.)","the bark of a tree; paper, book"
+560,liberos,"liber, -era, -erum","free, unrestricted, unrestrained, unimpeded, 
+unshackled"
+561,alii,"alius, -a, -ud","another, other, different"
+564,requirebant,"requiro, -ere, -sivi, -situm","to seek again, look after, search for, ask"
+569,hi,hic,"here, in this place"
+570,hi,"hic, haec, hoc",this
+571,suum,"suus, -a, -um","of oneself, belonging to oneself, his own, her 
+own, his, her, its, their"
+572,casum,"casus, -us (m.)","a falling, falling down, fall; a misfortune, 
+mishap, calamity"
+574,illi,"ille, illa, illud",that
+575,suorum,"suus, -a, -um","of oneself, belonging to oneself, his own, her 
+own, his, her, its, their"
+578,erant,"sum, esse, fui",to be
+579,qui,"qui, quae, quod","who, which, that"
+580,metu,"metus, -us (m.)","fear, dread, apprehension, anxiety"
+581,mortis,"mors, -tis (f.)",death
+582,mortem,"mors, -tis (f.)",death
+586,multi,"multus, -a, -um","much, great, many"
+587,ad,ad,"(with acc.) to, toward"
+588,deos,"deus, -i (m.)","a god, deity"
+589,manus,"manus, -us (f.)",a hand; a band (of soldiers)
+590,tollere,"tollo, -ere, sustuli, sublatum","to lift, take up, raise, elevate, exalt"
+592,plures,"multus, -a, -um","much, great, many"
+594,iam,iam,"at the moment, at the present moment, now, 
+at this time, just now, at present"
+595,deos,"deus, -i (m.)","a god, deity"
+596,ullos,"ullus, -a, -um","any, any one"
+598,illam,"ille, illa, illud",that
+599,et,et,"and; also, too, besides, likewise, as well, even"
+601,noctem,"nox, noctis (f.)",night
+602,mundo,"mundus, -i (m.)","the universe, world, heavens, earth"
+605,Nec,nec or neque,"and not, also not, nor"
+607,qui,"qui, quae, quod","who, which, that"
+608,fictis,"fingo, -ere, finxi, fictum","to touch, form, shape, fashion, make"
+611,vera,"verus, -a, -um","true, real, actual, genuine"
+612,pericula,"periculum or periclum, -i (n.)","a trial, experiment, attempt, test; risk, hazard, 
+danger, peril"
+616,qui,"qui, quae, quod","who, which, that"
+618,illud,"ille, illa, illud",that
+620,illud,"ille, illa, illud",that
+621,ardere,"ardeo, -ere, -si, -sum","to be on fire, burn, blaze, be burned, glow"
+623,sed,sed,"but, on the contrary, but also, but even, but in 
+fact"
+624,credentibus,"credo, -ere, -didi, -ditum","(with dat.) to believe, trust; to confide in, have 
+confidence in"
+625,nuntiabant,"nuntio, -are, -avi, -atum","to announce, report, give warning; convey, 
+deliver"
+631,quod,quod,"that, in that, because, but, though"
+632,non,non,"not, by no means, not at all"
+633,dies,"dies, -ei (m. or f.)",a day
+634,nobis,"nos, nostrum/nostri, nobis, nos, 
+nobis","we, us"
+636,sed,sed,"but, on the contrary, but also, but even, but in 
+fact"
+638,ignis,"ignis, -is (m.)",fire
+640,videbatur,"video, -ere, vidi, visum","to see, discern, perceive; (in passive) to seem"
+642,Et,et,"and; also, too, besides, likewise, as well, even"
+643,ignis,"ignis, -is (m.)",fire
+644,quidem,quidem,"assuredly, certainly, in fact, indeed"
+645,longius,longe,"a long way off, far, far off, at a distance"
+649,rursus,rursus or rursum,"turned back, back, backwards; back again, 
+again, once more"
+650,cinis,"cinis, -eris (m.)",ashes
+651,rursus,rursus or rursum,"turned back, back, backwards; back again, 
+again, once more"
+653,multus,"multus, -a, -um","much, great, many"
+654,et,et,"and; also, too, besides, likewise, as well, even"
+657,Hunc,hic,"here, in this place"
+658,Hunc,"hic, haec, hoc",this
+665,atque,"atque, ac",and
+666,etiam,etiam,"now too, yet, as yet, even yet, still, even now"
+669,essemus,"sum, esse, fui",to be
+674,non,non,"not, by no means, not at all"
+676,mihi,"ego, mei, mihi, me, me","I, me"
+678,non,non,"not, by no means, not at all"
+680,parum,parum,"too little, not enough, insufficiently"
+681,fortem,"fortis, -e","strong, firm, stout, courageous, brave, valiant, 
+bold, fearless"
+682,in,in,"(with abl.) in, on; (with acc.) into, to, onto"
+683,tantis,"tantus, -a, -um","of such size, of such a measure, so great, 
+such"
+684,periculis,"periculum or periclum, -i (n.)","a trial, experiment, attempt, test; risk, hazard, 
+danger, peril"
+687,nisi,nisi,"if not, unless, except"
+688,me,"ego, mei, mihi, me, me","I, me"
+689,cum,cum,"when, while, since, although"
+690,cum,cum,"(with abl.) with, together, along with"
+691,omnibus,"omnis, -e","all, every"
+693,omnia,"omnis, -e","all, every"
+694,mecum,"ego, mei, mihi, me, me","I, me"
+695,perire,"pereo, -ire, -ii (or -ivi), -itum","to pass away, come to nothing, vanish, 
+disappear, perish, die"
+696,misero,"miser, -era, -erum","wretched, unfortunate, miserable, pitiable, in 
+distress"
+698,magno,"magnus, -a, -um","great, large"
+699,tamen,tamen,"notwithstanding, nevertheless, for all that, 
+however, yet, still"
+702,credidissem,"credo, -ere, -didi, -ditum","(with dat.) to believe, trust; to confide in, have 
+confidence in"
+705,Tandem,tandem,"at length, at last, in the end, finally"
+706,illa,"ille, illa, illud",that
+709,quasi,quasi,"as if, just as if, as though"
+710,in,in,"(with abl.) in, on; (with acc.) into, to, onto"
+713,discessit,"discedo, -ere, -cessi, -cessum","to go off, depart, withdraw; scatter; abandon"
+715,mox,mox,"soon, directly, presently, then"
+716,dies,"dies, -ei (m. or f.)",a day
+717,verus,"verus, -a, -um","true, real, actual, genuine"
+719,sol,"sol, solis (m.)",the sun
+720,etiam,etiam,"now too, yet, as yet, even yet, still, even now"
+724,tamen,tamen,"notwithstanding, nevertheless, for all that, 
+however, yet, still"
+725,qualis,"qualis, -e","of what sort, of what nature, what kind of a; of 
+such a sort, kind, or nature, such as, as"
+726,esse,"sum, esse, fui",to be
+727,cum,cum,"when, while, since, although"
+728,cum,cum,"(with abl.) with, together, along with"
+730,solet,"soleo, -ere, -ui, -itum","to be used, be wont, be accustomed"
+734,adhuc,adhuc,"until now, heretofore, as yet, to this point, to 
+this place"
+735,oculis,"oculus, -i (m.)",an eye
+736,mutata,"muto, -are, -avi, -atum","to move, move away, remove, change"
+737,omnia,"omnis, -e","all, every"
+738,altoque,"altus, -a, -um","high, lofty, elevated, great; deep, profound"
+739,cinere,"cinis, -eris (m.)",ashes
+740,tamquam,tamquam or tanquam,"as much as, so as, just as, like as, as if, so to 
+speak"
+747,curatis,"curo, -are, -avi, -atum","to care, provide for; be attentive to; take 
+charge of; heal, cure"
+749,corporibus,"corpus, -oris (n.)",a body (living or lifeless)
+752,noctem,"nox, noctis (f.)",night
+753,spe,"spes, spei (f.)",hope
+754,ac,"atque, ac",and
+755,metu,"metus, -us (m.)","fear, dread, apprehension, anxiety"
+761,nam,nam or namque,"for, you see"
+762,et,et,"and; also, too, besides, likewise, as well, even"
+763,tremor,"tremor, -oris (m.)","a shaking, quaking, quivering, trembling, 
+tremor"
+764,terrae,"terra, -ae (f.)",the earth
+767,et,et,"and; also, too, besides, likewise, as well, even"
+772,et,et,"and; also, too, besides, likewise, as well, even"
+773,sua,"suus, -a, -um","of oneself, belonging to oneself, his own, her 
+own, his, her, its, their"
+774,et,et,"and; also, too, besides, likewise, as well, even"
+775,aliena,"alienus, -a, -um","of another, belonging to another, not one’s 
+own, foreign, alien, strange"
+776,mala,"malum, -i (n.)","an evil, mischief, misfortune, calamity"
+780,Nobis,"nos, nostrum/nostri, nobis, nos, 
+nobis","we, us"
+781,tamen,tamen,"notwithstanding, nevertheless, for all that, 
+however, yet, still"
+782,ne,ne,"no, not, that not, lest, so that not"
+783,tunc,tunc,"then, at that time, just then, on that occasion"
+784,quidem,quidem,"assuredly, certainly, in fact, indeed"
+786,quamquam,quamquam,"though, although, albeit, notwithstanding that"
+787,et,et,"and; also, too, besides, likewise, as well, even"
+789,periculum,"periculum or periclum, -i (n.)","a trial, experiment, attempt, test; risk, hazard, 
+danger, peril"
+790,et,et,"and; also, too, besides, likewise, as well, even"
+791,exspectantibus,"exspecto or expecto, -are, -avi, 
+-atum","to look out for, await, wait for"
+793,abeundi,"abeo, -ire, -ii, -itum","to go from, go away, go off, go forth, go, 
+depart"
+794,consilium,"consilium, -i (n.)","a council, body of counsellors; a plan, 
+purpose, intention"
+797,de,de,"(with abl.) from, away from, down from, out of, 
+about"
+799,nuntius,"nuntius, -i (m.)","an announcement, message; a messenger"
+801,Haec,hic,"here, in this place"
+802,Haec,"hic, haec, hoc",this
+804,historia,"historia, -ae (f.)","a narrative of past events, history"
+805,digna,"dignus, -a, -um","worthy, deserving, deserved, suitable, fitting, 
+proper"
+806,non,non,"not, by no means, not at all"
+807,scripturus,"scribo, -ere, scripsi, scriptum","to write, write out, compose, draw up, produce"
+808,leges,"lex, legis (f.)","a law, bill, regulation, principle, rule"
+809,et,et,"and; also, too, besides, likewise, as well, even"
+810,tibi,"tu, tui, tibi, te, te",you (singular)
+812,qui,"qui, quae, quod","who, which, that"
+813,requisisti,"requiro, -ere, -sivi, -situm","to seek again, look after, search for, ask"
+816,si,si,if
+817,digna,"dignus, -a, -um","worthy, deserving, deserved, suitable, fitting, 
+proper"
+818,ne,ne,"no, not, that not, lest, so that not"
+819,epistula,"epistula, -ae (f.)","a written communication, letter"
+820,quidem,quidem,"assuredly, certainly, in fact, indeed"
+821,videbuntur,"video, -ere, vidi, visum","to see, discern, perceive; (in passive) to seem"
+823,Vale,"valeo, -ere, -ui, -itum","to be strong, be vigorous, have strength, be 
+able"

@@ -5,6 +5,7 @@ from cltk.languages.utils import get_lang
 #from unidecode import unidecode
 
 from pathlib import Path
+import os
 
 import pandas as pd
 
@@ -13,8 +14,14 @@ import pandas as pd
 nlp = NLP(language="lat")
 
 # %%
+# Ensure the working directory is the directory that this file is in
+
+script_dir = Path(__file__).parent
+os.chdir(script_dir)
+print(f"Working directory is {script_dir}")
+# %%
 # New version!
-fn_ap = Path('Files') / 'ap-latin-draft-course-framework-vocab-list-revised.csv'
+fn_ap = Path('..') / 'Files' / 'ap-latin-draft-course-framework-vocab-list-revised.csv'
 
 df_ap_vocab = pd.read_csv(fn_ap)
 
@@ -54,6 +61,9 @@ df_matches
 
 # %%
 df_output = df_matches[["Word", "Vocabulary", "Definition"]]
+
+# %%
+df_output.to_csv(Path("..") / "Files" / "Vocab_list.csv")
 
 # %%
 for i, r in df_output.iterrows():
