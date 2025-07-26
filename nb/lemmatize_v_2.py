@@ -10,6 +10,11 @@ import os
 import pandas as pd
 
 # %%
+# HI LUKE I AM ADDING THESE COMMENTS
+# BUTTERCUP IS A CAT
+# YOU MIGHT BE A CLOWN
+
+# %%
 # Initialize the Latin pipeline
 nlp = NLP(language="lat")
 
